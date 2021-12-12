@@ -3,11 +3,15 @@
 </p>
 
 
-<div align='center' style='font-size:2em'>
+
+
 <strong>
+<h3 style='text-align:center'>
 Chat App Client Side
+</h3>
 </strong>
-</div> 
+
+
 
 
  This is the clientside for a simple chat application based on socket.io. It is mainly based on Nodejs, ExpressJS and Socketio for realtime chat.
