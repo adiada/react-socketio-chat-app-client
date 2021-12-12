@@ -5,11 +5,11 @@
 
 
 <!-- <div align='center'> -->
-<strong>
-<h1 style='text-align:center'>
+<!-- <strong> -->
+<h1 >
 Chat App Client Side
 </h1>
-</strong>
+<!-- </strong> -->
 <!-- </div> -->
 
 
