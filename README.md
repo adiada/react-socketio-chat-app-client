@@ -1,8 +1,8 @@
-<p align='center'><a href='https://rs-chat-app.netlify.app' >
+<p align='center'><a href='https://rs-chat-app.netlify.app' target="_blank" rel="noopener noreferrer">
 <img src='https://github.com/adiada/react-socketio-chat-app-client/raw/master/public/chatlogo.png' /> </a>
 </p>
 
-#
+
 <div align='center' style='font-size:2em'>
 <strong>
 Chat App Client Side
