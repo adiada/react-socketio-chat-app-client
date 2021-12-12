@@ -6,9 +6,9 @@
 
 
 <strong>
-<h3 style='text-align:center'>
+<h1 style='text-align:center'>
 Chat App Client Side
-</h3>
+</h1>
 </strong>
 
 
