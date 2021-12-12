@@ -4,13 +4,11 @@
 
 
 
-<!-- <div align='center'> -->
-<!-- <strong> -->
+<div align='center'>
 <h1 >
 Chat App Client Side
 </h1>
-<!-- </strong> -->
-<!-- </div> -->
+</div>
 
 
 
